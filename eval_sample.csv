@@ -1,0 +1,31 @@
+raw_report_id,source,timestamp,raw_text,pipeline_label,true_label,notes
+55,support_form,2026-08-27T22:34:01,Can we get sub-tasks? Need to break tasks into smaller steps.,feature_request,feature_request,User asking for sub-tasks capability
+181,email,2026-08-29T21:01:54,Can you add a template library for common project types?,feature_request,feature_request,Request for template library
+36,whatsapp,2026-09-03T15:19:29,The search function is incredibly slow. 10+ second delay before any results show.,bug,bug,Search performance/latency defect
+41,whatsapp,2026-08-26T17:45:55,Nice work team,noise,noise,Polite compliment / non-actionable
+97,slack,2026-09-05T12:37:23,lgtm,noise,noise,Chatter acronym / non-actionable
+62,slack,2026-09-04T19:19:55,Why does 'Done' not move the task to the Completed column automatically? Confused.,ux_confusion,ux_confusion,Kanban workflow behavior confusion
+152,support_form,2026-08-28T11:20:40,ok thanks,noise,noise,Acknowledgement / non-actionable
+136,email,2026-08-27T12:44:31,I set a due date but it never appeared on my calendar. Is that a feature or am I missing a step?,ux_confusion,ux_confusion,Calendar sync discoverability question
+75,slack,2026-09-08T23:58:07,"I can't figure out how to archive a project. The delete button just scares me, is there another option?",ux_confusion,ux_confusion,Archive vs delete UI confusion
+178,slack,2026-08-28T14:42:31,I set a due date but it never appeared on my calendar. Is that a feature or am I missing a step?,ux_confusion,ux_confusion,Calendar sync confusion
+116,slack,2026-09-09T14:29:23,test,noise,noise,Test submission
+148,whatsapp,2026-08-30T13:48:15,Export to PDF would be super useful for client reports.,feature_request,feature_request,PDF export feature request
+135,slack,2026-08-27T08:08:51,Can you add time tracking? I need to log hours per task for client billing.,feature_request,feature_request,Time tracking feature request
+94,support_form,2026-08-30T08:28:22,............,noise,noise,Punctuation noise
+162,slack,2026-09-03T22:34:21,The kanban board overlaps on mobile. Cards stack on top of each other.,bug,bug,Mobile responsive layout defect
+15,support_form,2026-09-07T21:21:55,Just checking if notifications work,ux_confusion,noise,"Test message / pinging channel, better classified as noise than UX confusion"
+19,email,2026-09-01T08:14:24,Bulk reassign tasks please! Reassigning one at a time is tedious with large projects.,feature_request,feature_request,Bulk task management feature request
+63,whatsapp,2026-08-27T01:09:26,............,noise,noise,Punctuation noise
+33,support_form,2026-09-01T13:07:59,Export button is broken — when I click 'Export to CSV' the whole page hangs and I have to reload.,bug,bug,CSV export crash / unresponsiveness
+117,slack,2026-09-07T20:18:32,Where do I find the activity log? I looked everywhere and couldn't find it.,ux_confusion,ux_confusion,Navigation / feature discovery confusion
+171,support_form,2026-09-06T08:51:51,Comments I posted yesterday are gone today. Checked with my team and they can't see them either.,bug,bug,Comment persistence defect
+102,whatsapp,2026-08-31T11:43:15,hello hello,noise,noise,Greeting chatter
+58,slack,2026-08-26T16:49:52,Can we get sub-tasks? Need to break tasks into smaller steps.,feature_request,feature_request,Sub-tasks feature request
+29,slack,2026-08-30T08:51:36,Where do I find the activity log? I looked everywhere and couldn't find it.,ux_confusion,ux_confusion,Navigation / feature discovery confusion
+38,whatsapp,2026-09-02T19:41:29,noticed that whenever I close and reopen the app my edits to tasks are lost - the old data comes back,bug,bug,Task data persistence failure
+84,email,2026-08-27T18:16:58,thanks!,noise,noise,Gratitude / non-actionable
+96,email,2026-09-03T09:26:36,not sure if this is the right place lol,noise,noise,Conversational filler
+147,email,2026-09-05T10:49:25,"I can't figure out how to archive a project. The delete button just scares me, is there another option?",ux_confusion,ux_confusion,Archive vs delete UI confusion
+160,email,2026-08-28T12:13:59,Assigned a task to Sarah and the next day it showed as unassigned again.,bug,bug,Task assignment persistence bug
+61,slack,2026-08-30T12:43:14,I set a due date but it never appeared on my calendar. Is that a feature or am I missing a step?,ux_confusion,ux_confusion,Calendar sync discoverability question

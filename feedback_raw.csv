@@ -1,0 +1,181 @@
+id,source,timestamp,raw_text,user_id,cluster_id,category_hint
+1571a0a2-1ab0-489a-b146-c51c5da36877,email,2026-09-04T21:44:34,hey,u027,,noise
+898bc394-59b6-4dd0-9e5f-576872e0cb97,support_form,2026-08-28T00:46:07,Can someone look at the email notification system? Getting tripicate [sic] emails for every change.,u035,cluster_D,bug
+f7097682-f347-4b78-878d-9bf039210706,support_form,2026-09-02T19:55:04,Why does 'Done' not move the task to the Completed column automatically? Confused.,u018,,ux_confusion
+7d72e314-d70d-4843-9229-006ad362519d,email,2026-09-02T16:43:41,The kanban board overlaps on mobile. Cards stack on top of each other.,u007,,bug
+79cb3824-673b-4731-869f-3803168a8ad1,email,2026-08-30T21:17:39,Would be great to have a mobile app — the web app on phone is hard to use.,u035,,feature_request
+11cb579e-d5b3-41af-b739-9041c2479cb1,support_form,2026-09-07T21:21:55,Just checking if notifications work,u007,,noise
+89fb43d4-39f3-4e8a-81d6-1968fd067d84,slack,2026-08-27T05:27:02,I'm experiencing an issue where the login screen displays a spinner indefinitely after I enter my credentials. The page never progresses to the dashboard.,u002,cluster_A,bug
+8c6fd5fb-3b67-42d4-a11e-ab9358d3d4d5,email,2026-08-27T12:10:47,"Can the search be global across all workspaces, not just current project?",u031,,feature_request
+37f94734-0737-48d9-ae2e-ea616d3ab819,email,2026-08-28T14:20:54,Would love Markdown support in task descriptions.,u016,,feature_request
+9e156581-a029-4b9b-bfba-5c92adc07b5b,email,2026-09-01T08:14:24,Bulk reassign tasks please! Reassigning one at a time is tedious with large projects.,u010,,feature_request
+ce782a68-14e6-4cf2-bd1f-4bae168f6000,slack,2026-09-05T10:26:20,I typed out a whole project description and it disappeared when I hit save. Lost everything.,u026,,bug
+ae11b41b-b7ce-4519-98a4-b04c5df8f3ac,slack,2026-09-01T20:06:56,The login page keeps spinning forever after I enter my password. Never actually logs me in.,u009,,bug
+a27d670d-5705-4ae7-8b0c-2e15b8627513,email,2026-09-04T14:34:24,............,u030,,noise
+6aa66cad-7f38-4ebf-9df7-5866879b9668,whatsapp,2026-09-06T14:35:12,login broken for me too — just spins forever,u035,cluster_A,bug
+7d661295-d0cb-430a-8081-a461ec8927d8,whatsapp,2026-09-09T10:43:58,Would love to be able to set custom fields on tasks — e.g. a 'client name' field.,u025,,feature_request
+21324094-716f-4117-af9f-8087d4d96f1c,slack,2026-08-29T12:56:40,Would love Markdown support in task descriptions.,u037,,feature_request
+5104e443-bf29-4832-938d-e922346a5e74,whatsapp,2026-09-02T09:16:42,I'll send a proper email later,u001,,noise
+e08d3faa-c3b3-4ced-a986-956dc195591f,slack,2026-09-07T17:34:49,CSV export = instant browser freeze. Happens 100% of the time on Chrome 125.,u034,cluster_E,bug
+11858e23-2d63-408e-ba07-2ccbd2c0075c,whatsapp,2026-08-30T03:04:57,Push notifs aren't working on iOS at all since the last update.,u003,,bug
+8696e2d9-04d6-4ab6-858e-c875a97c20cc,slack,2026-08-30T08:51:36,Where do I find the activity log? I looked everywhere and couldn't find it.,u020,,ux_confusion
+3db836ca-6575-44a9-ab51-24a49423aef9,email,2026-09-03T10:15:55,API rate limit errors appearing in the UI even on free tier (should only be paid users).,u005,,bug
+f78bdbf8-a707-41d2-9a6d-c8c88d63e6f8,email,2026-09-03T14:19:39,Dropdown menus don't close when I click outside them. Have to press Escape.,u034,,bug
+e40e848f-9f1a-4c12-9453-c761cc8e9126,support_form,2026-09-07T17:38:38,Where do I find the activity log? I looked everywhere and couldn't find it.,u040,,ux_confusion
+bee567ce-cb04-4787-8065-96526d23f855,support_form,2026-09-01T13:07:59,Export button is broken — when I click 'Export to CSV' the whole page hangs and I have to reload.,u024,cluster_E,bug
+52e3d686-3fa9-4bd0-a9e9-410043986231,support_form,2026-09-04T12:12:08,test,u035,,noise
+1cd1b9be-1512-43c9-b187-a642bba92f32,slack,2026-09-07T16:10:29,"Every time I refresh the page, my task updates disappear and go back to what they were before.",u025,cluster_C,bug
+dd19eb10-26c7-43c2-9f01-773bbc7583a7,whatsapp,2026-09-03T15:19:29,The search function is incredibly slow. 10+ second delay before any results show.,u021,,bug
+c7bde81e-98de-455a-9aaa-5939abcf9266,slack,2026-09-09T15:08:55,Guest access / external collaborator role would be great for working with contractors.,u030,,feature_request
+e2baa8e3-c6e9-493b-950a-978700869e7d,whatsapp,2026-09-02T19:41:29,noticed that whenever I close and reopen the app my edits to tasks are lost - the old data comes back,u010,cluster_C,bug
+59de5bc1-9115-4577-b0ac-a28911fcc262,email,2026-09-01T19:35:00,Bulk reassign tasks please! Reassigning one at a time is tedious with large projects.,u034,,feature_request
+6d739148-912e-4371-a785-253b42ae80ab,email,2026-09-01T17:38:18,Would love Markdown support in task descriptions.,u007,,feature_request
+1dbbecc0-ca2b-44c6-b0b3-0b3787568dac,whatsapp,2026-08-26T17:45:55,Nice work team,u007,,noise
+27e56e63-1c6f-406c-af71-e2a38fd33228,support_form,2026-09-05T14:16:02,I typed out a whole project description and it disappeared when I hit save. Lost everything.,u007,,bug
+d53e5ca9-0188-4a99-b25a-0ac928248f87,email,2026-09-09T11:43:51,A 'My Tasks' view that aggregates tasks across all my projects would be really helpful.,u026,,feature_request
+70222267-5671-4bae-9d95-5276c090bfb6,support_form,2026-09-07T00:24:16,Filters panel disappears randomly and I have to reload the page to get it back.,u030,,bug
+bb5a3c04-2e35-4e63-9b0e-354be59eb6c2,whatsapp,2026-09-06T10:55:04,Push notifs aren't working on iOS at all since the last update.,u018,,bug
+6c42c37c-959f-4017-b6b7-e8ed45ff2205,slack,2026-09-05T16:51:07,Please add dark mode!! My eyes are dying on night shifts.,u037,,feature_request
+41f1f718-f8f7-4feb-b4e7-dde609f0c9e3,email,2026-08-28T10:13:27,Exporting to CSV freezes the whole tab. Had to force-close the browser.,u038,,bug
+abde88b2-5d70-471e-8f4d-514823456ca3,whatsapp,2026-09-01T17:11:12,Bulk reassign tasks please! Reassigning one at a time is tedious with large projects.,u014,,feature_request
+37310c1c-1bfb-4e9c-b542-b10d3f03c288,email,2026-08-27T19:16:32,The CSV export feature crashes my browser. Tab becomes unresponsive.,u012,cluster_E,bug
+d049d038-0954-4a97-9bd5-4e83d2a939c1,whatsapp,2026-09-06T14:05:05,Exporting to CSV freezes the whole tab. Had to force-close the browser.,u032,,bug
+8db874f6-13b5-437f-a1f0-9bc956b7c61d,email,2026-09-04T10:45:34,Export to PDF would be super useful for client reports.,u009,,feature_request
+feffec91-9a05-4f9c-bc53-2d7ad865c542,whatsapp,2026-09-01T13:54:33,The search function is incredibly slow. 10+ second delay before any results show.,u011,,bug
+7bbf017c-79cd-4864-a920-47910be42ade,slack,2026-08-29T11:18:27,exporting to CSV completely freezes my browser tab. have to force quit chrome every time,u011,cluster_E,bug
+0dc32ac5-eabf-4406-98ac-6bc3dc089c02,email,2026-09-01T13:59:16,"Keep getting logged out randomly mid-session, lose all my unsaved work.",u014,,bug
+29001295-6630-4b34-9625-6a8c47a46364,support_form,2026-08-27T22:34:01,Can we get sub-tasks? Need to break tasks into smaller steps.,u026,,feature_request
+a6a592a8-230c-4932-b32b-95c430915207,email,2026-08-27T10:24:54,An AI summary of project status at end of week would be cool.,u027,,feature_request
+703b31ac-e141-4642-8550-a6160409c0cd,email,2026-09-02T15:25:52,Is there a way to sort tasks by priority? I found filters but no sort option.,u036,,ux_confusion
+ba3df8c6-8967-4054-a19a-58d57b6ffb83,slack,2026-08-26T16:49:52,Can we get sub-tasks? Need to break tasks into smaller steps.,u011,,feature_request
+0896590d-d2fe-49cc-8ed9-3644710608dc,support_form,2026-09-06T14:53:40,An AI summary of project status at end of week would be cool.,u016,,feature_request
+f9b4fe15-07a3-4e69-93f7-8217f2622d32,email,2026-09-03T09:07:54,lgtm,u030,,noise
+27d714e2-b798-4d67-92ab-b1fa679e8b19,slack,2026-08-30T12:43:14,I set a due date but it never appeared on my calendar. Is that a feature or am I missing a step?,u017,,ux_confusion
+a97de8b1-f258-47b1-9112-dcddf899599f,slack,2026-09-04T19:19:55,Why does 'Done' not move the task to the Completed column automatically? Confused.,u038,,ux_confusion
+fdd6241a-cb57-4316-a331-cf485b9e1039,whatsapp,2026-08-27T01:09:26,............,u010,,noise
+f709d5fe-dbe2-4e57-8900-b0514b00bc31,whatsapp,2026-09-07T10:09:04,Not sure if my changes saved or not — there's no confirmation message after saving.,u004,,ux_confusion
+a080d7c0-e514-4825-8713-398a013bfbc5,email,2026-09-03T16:36:39,A Gantt chart view would be amazing for project timelines.,u025,,feature_request
+f9cc5628-3328-4e28-aa2a-d7aa5fba711e,slack,2026-09-02T12:13:32,Offline mode — sometimes I'm on a train with no signal and I can't use the app at all.,u031,,feature_request
+0f036161-07ef-467b-90e8-b399a5c44a6f,slack,2026-09-01T09:44:16,Would love Markdown support in task descriptions.,u024,,feature_request
+e8d1d784-cb36-4d42-8d32-ba7727d14028,slack,2026-09-01T17:12:27,Is there a way to see tasks assigned to multiple people? The filter only seems to do one user.,u008,,ux_confusion
+930aaa91-9781-4cca-8e0a-b4dcdc8c684c,slack,2026-09-03T20:32:17,Is there a way to see tasks assigned to multiple people? The filter only seems to do one user.,u001,,ux_confusion
+73a3a6c6-7190-4063-96d1-01a28dc2bdcf,whatsapp,2026-09-06T11:37:35,The Zapier webhook isn't firing anymore. Tested it and no events are coming through.,u015,,bug
+5a0c6933-0d5b-4c18-a451-7ada9feac095,email,2026-08-26T15:17:00,👍,u037,,noise
+0eaeb6f3-d408-4002-b606-2eab786ddc32,slack,2026-09-05T15:39:21,Can we get sub-tasks? Need to break tasks into smaller steps.,u006,,feature_request
+5bd646f9-7c7e-4cab-a9d5-ae99f3c3f3b1,slack,2026-09-04T14:29:33,The email notifications are duplicated. I receive 2-3 copies of the same notification for one event.,u017,cluster_D,bug
+0625ef98-571d-43f8-b8ea-f2af3fe8cb63,whatsapp,2026-08-31T14:06:04,Session expires after like 5 minutes even though I'm actively using the app. Super annoying.,u035,,bug
+a2c759b9-ba81-485c-a093-1eac05dfee7a,slack,2026-09-08T23:58:07,"I can't figure out how to archive a project. The delete button just scares me, is there another option?",u030,,ux_confusion
+d6a7b5e2-9ece-4599-9f76-cb0eee60c79f,email,2026-09-08T15:21:39,"Bulk-selected 20 tasks to mark complete, only the first one actually changed status.",u021,,bug
+8cf9c067-4e01-4fca-bc67-b06938534861,slack,2026-09-04T14:22:27,Would love to be able to set custom fields on tasks — e.g. a 'client name' field.,u036,,feature_request
+fa2e070e-83ee-421f-a692-a2a192b2bb3e,email,2026-08-27T23:35:42,App completely crashes on my older Android phone (Samsung Galaxy S9) when I open any project.,u032,,bug
+05cf66e6-d76c-48ae-a886-a6cfbb3690c9,support_form,2026-09-06T01:09:15,Would love a recurring task feature — right now I have to manually re-create monthly tasks.,u009,,feature_request
+875dd6a7-a1c4-415c-9656-e0b864760858,slack,2026-09-07T12:06:53,I'll send a proper email later,u032,,noise
+2a9eb4b8-a70b-4082-b9e1-4253a0c07d74,email,2026-08-31T15:47:06,The difference between 'Close' and 'Archive' is really confusing. What does each one do exactly?,u014,,ux_confusion
+a8afb347-442e-4075-b18b-68aa7358d7bd,email,2026-08-31T11:43:14,I'll send a proper email later,u031,,noise
+0158edab-3307-4d34-8f64-d7f255cbc1e3,support_form,2026-09-08T09:38:04,When I click 'Forgot Password' I get a 404 error instead of the reset email.,u016,,bug
+cde306c5-1666-42ab-ad7e-e15e79c7ecc6,email,2026-08-27T18:16:58,thanks!,u031,,noise
+7ac07706-b9d7-4cae-b8ed-9a68f5bed3a4,email,2026-08-29T15:48:03,Not sure if my changes saved or not — there's no confirmation message after saving.,u014,,ux_confusion
+b2432659-5d66-47f9-a283-e1b585ab948e,email,2026-08-27T22:02:57,Exporting to CSV freezes the whole tab. Had to force-close the browser.,u023,,bug
+471b72df-eaba-4d4b-84b6-b982991f7a75,whatsapp,2026-09-06T15:55:36,I set a due date but it never appeared on my calendar. Is that a feature or am I missing a step?,u038,,ux_confusion
+236cf132-1bef-474e-afbb-e04c817dea5f,support_form,2026-08-31T10:02:48,"I can't figure out how to archive a project. The delete button just scares me, is there another option?",u012,,ux_confusion
+ae90dddd-361d-4d03-91bc-f7cb24de2b55,email,2026-09-03T10:06:54,Where do I find the activity log? I looked everywhere and couldn't find it.,u011,,ux_confusion
+2a0d22ab-7019-4083-92d9-99c940a64e49,email,2026-09-08T20:36:56,I updated a task's status to 'In Progress' three times now and it keeps going back to 'To Do' after I reload.,u021,cluster_C,bug
+78c019be-be29-43c3-af52-8bc2d6884dd5,slack,2026-08-27T10:39:14,hi,u005,,noise
+acbc4c84-0faa-4e0e-8b19-736753aae2f5,slack,2026-08-26T20:47:31,cool app,u019,,noise
+06f7da74-1dcb-4ca4-840e-6aaa62d8b366,whatsapp,2026-09-03T14:18:02,Thought the app was broken because nothing was loading — turned out I was in the wrong workspace.,u015,,ux_confusion
+2ba657d8-678e-44ec-8f22-3eded97b1ebf,support_form,2026-08-30T08:28:22,............,u038,,noise
+3dabc977-9f25-40f5-91a9-29e05bde7a77,slack,2026-09-01T18:58:18,Thought the app was broken because nothing was loading — turned out I was in the wrong workspace.,u029,,ux_confusion
+32daaa73-ea3f-4759-a38d-07c1dac112cc,email,2026-09-03T09:26:36,not sure if this is the right place lol,u012,,noise
+968bb119-05ec-4d47-9f3b-b92ed07e55c1,slack,2026-09-05T12:37:23,lgtm,u009,,noise
+704110a7-92b0-4e72-b1d8-1a285386ce47,slack,2026-09-04T11:09:41,Export to PDF would be super useful for client reports.,u001,,feature_request
+89baaad2-6897-46cf-a375-6a3c7f870cca,email,2026-09-07T11:04:56,"Getting duplicate email notifications — same update, same task, three emails in a row.",u016,,bug
+22458320-d3f3-4f7e-934c-b72b3d674094,support_form,2026-08-28T06:23:40,Would love a recurring task feature — right now I have to manually re-create monthly tasks.,u030,,feature_request
+d978f7f5-49cb-4046-abe3-043c63a3c4a5,whatsapp,2026-08-28T09:13:22,Bulk reassign tasks please! Reassigning one at a time is tedious with large projects.,u017,,feature_request
+86c0038f-c4c1-45fc-8d7b-fa4e68878871,whatsapp,2026-08-31T11:43:15,hello hello,u032,,noise
+647fc1ac-3a32-4de2-89c9-2bd9a152b821,slack,2026-09-06T09:01:02,Integration with Notion would save me a ton of copy-paste work.,u016,,feature_request
+fac87311-74ff-4e5f-8bca-bdf17df01199,email,2026-09-05T15:49:49,Please add read receipts for comments so I know if my teammate saw my note.,u034,,feature_request
+83367c01-8cc6-43d3-97fd-bef60bb1c267,support_form,2026-09-01T21:57:28,"Can the search be global across all workspaces, not just current project?",u040,,feature_request
+0e38c319-a9d0-44da-b03e-3629efa5b148,email,2026-09-04T18:15:12,When I click 'Forgot Password' I get a 404 error instead of the reset email.,u013,,bug
+5a2dfdc4-eb03-46e1-b102-688f431f2a49,support_form,2026-08-31T14:26:03,I didn't realize comments were per-task until a teammate pointed it out. Thought they were global.,u013,,ux_confusion
+ea76cce7-31cb-4cdc-92bd-223bbc9b8e32,slack,2026-09-08T09:18:05,Hey I updated the app on iOS and now I'm getting zero push notifications. Anyone else?,u015,cluster_B,bug
+c356d4d2-da99-4fc5-ab1a-668d56cc8250,whatsapp,2026-09-08T07:40:10,duplicate email notifs are really annoying. same message 2-3x every time,u028,cluster_D,bug
+875e49fd-310e-438f-8323-f1c653d74d68,slack,2026-09-06T17:44:33,Please add dark mode!! My eyes are dying on night shifts.,u030,,feature_request
+4838902b-97bb-4746-a22d-5c1d04e8a3f0,whatsapp,2026-09-06T03:47:34,Comments I posted yesterday are gone today. Checked with my team and they can't see them either.,u004,,bug
+6f446c96-c062-426f-b9ad-e654bbf0a423,email,2026-09-06T10:59:43,My iPhone stopped receiving any notifications from Flowboard after the latest version.,u005,cluster_B,bug
+4aa39549-74e0-42aa-96fc-e33ea8d82051,support_form,2026-09-04T12:53:23,iOS push notifications are broken. Updated yesterday and nothing since.,u011,cluster_B,bug
+6736078e-3219-4dd1-b739-03933372999f,email,2026-09-05T11:17:32,Where do I find the activity log? I looked everywhere and couldn't find it.,u035,,ux_confusion
+e2e13e5a-c50b-40ca-8c2f-ba6337b9731b,support_form,2026-08-26T09:24:14,ok thanks,u027,,noise
+ed48e06e-d736-49d7-9a2f-91aa7c4dc488,slack,2026-09-09T14:29:23,test,u017,,noise
+e4a307d4-15d7-45e7-9ad8-d3f9b1e3b7d6,slack,2026-09-07T20:18:32,Where do I find the activity log? I looked everywhere and couldn't find it.,u018,,ux_confusion
+39347722-53d0-46ca-abb7-8fdaccaa2abb,slack,2026-09-01T14:14:31,A burndown chart widget on the dashboard would help me track sprint velocity.,u015,,feature_request
+cb554ef3-3efd-460f-9fc4-e9d0bc9627d5,email,2026-08-27T02:23:13,My colleague told me to message here but idk what to say,u029,,noise
+cf927223-a70a-4699-bae6-4d8ade5cae5e,whatsapp,2026-09-07T14:17:18,Late notification — got a 'task due' alert 2 days after the task was already due.,u039,,bug
+975cbe5d-3f12-4e8b-a2de-4d0e2513080f,email,2026-09-09T10:25:44,Would love Markdown support in task descriptions.,u016,,feature_request
+38e8641a-8fd2-4a55-aebc-75df39e48c27,whatsapp,2026-08-30T11:02:54,The dashboard takes forever to load. Like 30+ seconds. I've tried on different wifi.,u031,,bug
+8fc788b7-01b8-4f6c-b2ef-3a086862b130,email,2026-08-31T19:23:36,no notifs on iphone since update dropped ugh,u013,cluster_B,bug
+c9e7b353-aaef-4597-8085-4bcacd3f57d8,email,2026-09-02T20:24:24,Hello? Anyone there?,u010,,noise
+554e53e7-cd98-4706-bf41-af87f442c2a3,slack,2026-09-04T07:04:09,not sure if this is the right place lol,u015,,noise
+9d57c0a6-0383-404a-aa23-c18ab8d04bf3,slack,2026-08-31T11:35:56,"Getting duplicate email notifications — same update, same task, three emails in a row.",u027,,bug
+9adf3cbe-5648-48f4-a490-8f5be19fa27c,support_form,2026-08-28T08:31:30,"Keep getting logged out randomly mid-session, lose all my unsaved work.",u014,,bug
+9cb96b91-5875-4eac-b31a-91962bade904,email,2026-08-29T12:32:07,Google Calendar sync is off by one hour — all my tasks show up an hour late.,u025,,bug
+51540ae0-36b8-47d7-a9d1-51b1692be383,support_form,2026-09-07T11:22:36,never mind figured it out,u019,,noise
+7a0e1ab4-eefd-4543-9428-031b113ead77,email,2026-09-03T10:14:07,Bulk reassign tasks please! Reassigning one at a time is tedious with large projects.,u013,,feature_request
+c0b3ab14-1ca5-485a-a998-e0968c798ac6,email,2026-08-28T07:04:25,"I can't figure out how to archive a project. The delete button just scares me, is there another option?",u032,,ux_confusion
+d87aa6f6-4116-4aaf-a23c-382afa92b83b,email,2026-09-03T11:32:41,Can you add time tracking? I need to log hours per task for client billing.,u022,,feature_request
+e016ca2d-8725-4ccb-8d9d-94e88158350f,whatsapp,2026-08-27T09:04:49,A burndown chart widget on the dashboard would help me track sprint velocity.,u003,,feature_request
+588cb4e0-221c-4518-bddd-bee2fe6113eb,support_form,2026-08-27T10:26:07,lgtm,u009,,noise
+3fb572d0-b35c-43f1-bff2-29125e556a24,slack,2026-08-27T08:08:51,Can you add time tracking? I need to log hours per task for client billing.,u030,,feature_request
+d09f8250-be5f-48e3-8634-d53c11d37fa9,email,2026-08-27T12:44:31,I set a due date but it never appeared on my calendar. Is that a feature or am I missing a step?,u008,,ux_confusion
+35e8689c-f4fe-4bda-9e5f-2f27ad515b9a,whatsapp,2026-09-04T14:27:08,API rate limit errors appearing in the UI even on free tier (should only be paid users).,u003,,bug
+818f1325-0e31-40dd-b591-f476553210ff,email,2026-09-01T19:47:20,I invited a team member but they said they never got the invite. Is there a pending invites page?,u039,,ux_confusion
+ac83907a-bc07-4cfd-af46-b0b42bf4642d,support_form,2026-09-01T12:28:21,Where do I find the activity log? I looked everywhere and couldn't find it.,u012,,ux_confusion
+91d2d1ba-6d43-4c6a-820e-fd3337d42b14,support_form,2026-09-01T08:42:30,Session expires after like 5 minutes even though I'm actively using the app. Super annoying.,u036,,bug
+4e3f3e25-a748-4726-ac97-aa32f6cb743a,email,2026-09-03T10:37:27,I invited a team member but they said they never got the invite. Is there a pending invites page?,u032,,ux_confusion
+f04bc355-9fb6-4fd2-9392-49a49bf777f8,slack,2026-08-28T09:05:30,A 'My Tasks' view that aggregates tasks across all my projects would be really helpful.,u002,,feature_request
+a17c36ca-ea6e-4e69-97f5-ec0b4a3121b1,whatsapp,2026-09-08T10:08:40,A 'My Tasks' view that aggregates tasks across all my projects would be really helpful.,u032,,feature_request
+8d1ddfac-e5aa-4273-9b7a-189ccf71f901,whatsapp,2026-08-31T08:11:35,The permissions system is really confusing. What's the difference between Admin and Member?,u005,,ux_confusion
+781c950f-ca11-43b0-b080-b56881116cd1,email,2026-09-05T14:16:47,I keep getting the same email notification 3 times for every single task update. Please fix!,u038,cluster_D,bug
+09416bc1-4694-440a-abf4-0947a44b780c,slack,2026-09-03T15:23:28,"Bulk-selected 20 tasks to mark complete, only the first one actually changed status.",u034,,bug
+d1e9fdfb-ca8e-4d8d-aa1a-393c44c0b7c4,email,2026-09-05T10:49:25,"I can't figure out how to archive a project. The delete button just scares me, is there another option?",u033,,ux_confusion
+4b9f4b47-62d3-47bc-87aa-1ab6091c7f99,whatsapp,2026-08-30T13:48:15,Export to PDF would be super useful for client reports.,u031,,feature_request
+0262410c-ffc8-4bef-8f8b-3bf48af1e5f7,support_form,2026-08-28T06:43:23,............,u035,,noise
+2ee99bae-5f11-4b7d-8990-9d225c3a2e36,support_form,2026-08-29T09:02:51,task status keeps reverting. is there an autosave bug?,u021,cluster_C,bug
+bc69611f-8200-422e-a9c0-28f1da9db69e,email,2026-08-30T00:59:51,"Bulk-selected 20 tasks to mark complete, only the first one actually changed status.",u035,,bug
+6bc3d466-179a-41f5-a974-40923a265641,support_form,2026-08-28T11:20:40,ok thanks,u032,,noise
+05848717-bc46-47bc-ae29-80c106cc0100,slack,2026-09-04T08:48:21,Tried clearing cache but still can't log in. It just shows the spinning thing and hangs.,u007,cluster_A,bug
+8faea197-c655-4c12-9bbf-b027e01e4888,slack,2026-09-05T05:18:15,Would love Markdown support in task descriptions.,u018,,feature_request
+787ae629-f3ee-4b4b-9b4f-36f3ed4f770d,whatsapp,2026-08-30T10:59:26,Slack integration stopped posting updates to our channel — it was working last week.,u016,,bug
+c51db1e9-f550-47c4-85a5-b73e765fdd92,whatsapp,2026-09-04T09:20:21,Can we get sub-tasks? Need to break tasks into smaller steps.,u025,,feature_request
+b1ddd469-38aa-4b78-99eb-694d53fe907e,email,2026-09-03T10:55:00,"Login doesn't work. I enter my email and password, click Sign In, and the loading spinner just keeps going. I've waited 5+ minutes. Nothing happens.",u011,cluster_A,bug
+2a497871-46a2-44b3-bae3-46869c2014b1,whatsapp,2026-09-05T01:20:50,............,u004,,noise
+ed101811-a50d-4d7a-b8e9-275524b17ed5,slack,2026-09-01T22:24:05,Push notifications have completely stopped working on my iPhone since yesterday's update.,u036,cluster_B,bug
+5e0c2229-a71e-4635-bdb6-77849b7bd933,email,2026-08-28T12:13:59,Assigned a task to Sarah and the next day it showed as unassigned again.,u035,,bug
+5b00d214-4a28-4c5f-945b-7acffa3ddf25,whatsapp,2026-08-27T09:38:02,Filters panel disappears randomly and I have to reload the page to get it back.,u040,,bug
+2dae6eaa-6665-45cc-a27c-869f68a9b124,slack,2026-09-03T22:34:21,The kanban board overlaps on mobile. Cards stack on top of each other.,u002,,bug
+56a7be50-0b2d-4c38-80c5-cc08a7818e35,support_form,2026-08-31T09:10:19,"I can't figure out how to archive a project. The delete button just scares me, is there another option?",u036,,ux_confusion
+8ee49860-6cd7-4d81-a521-ab0bb5167192,whatsapp,2026-09-02T11:06:06,"Clicking 'Duplicate task' creates a copy but the due date is always set to today, not copied.",u028,,bug
+79733d4d-39b7-499f-bccc-d6ace535fd76,slack,2026-09-03T09:54:19,not sure if this is the right place lol,u013,,noise
+f67f076b-016a-42d1-b307-7c5995205455,slack,2026-09-06T15:24:43,App completely crashes on my older Android phone (Samsung Galaxy S9) when I open any project.,u012,,bug
+f147ca00-871c-4371-9828-62ed0ab6c814,slack,2026-09-09T10:14:08,the login is completely broken!! spiner just goes forever and never logs me in smh,u007,cluster_A,bug
+7b4ea9fc-aab7-48f7-b04f-3def85e4e794,support_form,2026-09-05T13:06:15,Hello? Anyone there?,u035,,noise
+38a04ff6-8975-44e2-9952-17dd842200b0,support_form,2026-08-28T06:41:34,The Zapier webhook isn't firing anymore. Tested it and no events are coming through.,u001,,bug
+79aa7237-e18b-4f33-b24f-850e4010aa35,whatsapp,2026-09-03T14:26:03,Export to PDF would be super useful for client reports.,u014,,feature_request
+73d3f557-ac5b-4279-97c6-b9f2e2d9972a,support_form,2026-09-06T08:51:51,Comments I posted yesterday are gone today. Checked with my team and they can't see them either.,u012,,bug
+173f68b0-3d19-4658-abf3-e3f2d31589a3,slack,2026-09-07T21:44:57,Google Calendar sync is off by one hour — all my tasks show up an hour late.,u010,,bug
+f3cea29e-d62c-4565-9671-9775b100ccc4,email,2026-08-26T11:44:25,test,u006,,noise
+245ca614-0c3c-46d2-90ad-fb3039bbe55a,support_form,2026-08-28T06:27:53,Late notification — got a 'task due' alert 2 days after the task was already due.,u018,,bug
+651d0c72-b016-4018-8a91-66d62259ceb5,support_form,2026-08-26T09:35:09,The difference between 'Close' and 'Archive' is really confusing. What does each one do exactly?,u025,,ux_confusion
+8adcc345-2652-4064-ad8d-73495b4a21c4,email,2026-09-01T11:08:32,Getting spammed by email — every comment on a task sends me like 4 identical emails.,u032,cluster_D,bug
+e50e4182-fbb6-4f63-8c56-33831b786c07,slack,2026-09-06T15:16:32,"Getting duplicate email notifications — same update, same task, three emails in a row.",u032,,bug
+2e45d857-a927-4d58-9b40-936e16c23db4,slack,2026-08-28T14:42:31,I set a due date but it never appeared on my calendar. Is that a feature or am I missing a step?,u010,,ux_confusion
+58abc85e-ba86-4717-9ae2-3bd6b53b6356,whatsapp,2026-09-06T15:13:34,"Dark mode is broken — some text is white on white background, totally unreadable.",u009,,bug
+478cfa96-3f2a-42d8-b0be-d01602f4c2f7,whatsapp,2026-08-27T11:52:50,Push notifs aren't working on iOS at all since the last update.,u015,,bug
+5eaba466-6387-4652-8c53-a4423f3f83c4,email,2026-08-29T21:01:54,Can you add a template library for common project types?,u037,,feature_request
+3e9de01c-e58f-4766-994e-5d340b5e9ae3,email,2026-08-27T16:14:43,"Changes don't save!! I mark something done, refresh, and it's back to incomplete.",u021,cluster_C,bug
+593cab22-7e14-48ad-8e2b-172005ef9fc3,whatsapp,2026-09-08T18:38:16,"Is the app down? I can't get past the login screen, it's been stuck loading for an hour",u003,cluster_A,bug
+f2a99402-92b5-4471-8856-c0ff1484ba3d,whatsapp,2026-09-08T15:58:18,Can someone call me instead?,u015,,noise
+adce1f43-7770-481c-963c-0fbcbb4c4ae8,slack,2026-08-31T11:40:12,no issues so far!,u040,,noise
+64f22ef8-5415-498f-9759-54dce561eb69,slack,2026-08-30T15:53:08,"Um hi, I think I sent this to the wrong place",u007,,noise
+e4f57746-f4c7-4ca1-a80b-3f5af685d5a2,whatsapp,2026-08-29T15:16:10,2FA code says 'invalid' even when I enter it immediately. Had to disable 2FA to get in.,u029,,bug
+d6a8c4ae-f658-43ef-ac58-942fb61d850d,slack,2026-08-26T21:51:35,cool app,u024,,noise
+d3b9b9c3-0b43-46c6-a907-12315c1b3fd2,email,2026-09-07T15:53:40,Tried to export my project to CSV and the browser just froze. Had to kill the tab.,u033,cluster_E,bug

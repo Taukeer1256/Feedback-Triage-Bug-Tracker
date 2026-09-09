@@ -1,0 +1,20 @@
+# Environment & Secrets (NEVER COMMIT API KEYS)
+.env
+.env.local
+*.env
+
+# SQLite Database (regenerable via python run_pipeline.py)
+tracker.db
+tracker.db-journal
+*.db
+*.sqlite3
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
