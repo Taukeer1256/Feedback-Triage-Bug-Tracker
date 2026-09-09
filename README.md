@@ -74,7 +74,7 @@ Generated weekly digest: weekly_summary_2026-09-09.md
 Each bug receives an automatically synthesized report combining inferred reproduction steps with multi-channel user evidence:
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400/1e293b/f8fafc?text=Developer-Ready+Bug+Report+Artifact+%7C+Issue+%235" alt="Bug Report Preview" width="100%" />
+  <img src="assets/bug_report_preview.png" alt="Bug Report Preview" width="100%" />
 </p>
 
 ```markdown
